@@ -6,7 +6,7 @@ This repository contains two Unsupervised learning algorithm
 ## Hierarchical clustering 
 ## Agglomerative method --> a bottom-up approach
 
-#Usage 
+Usage 
 
 ```
 pip install -r requirement.txt
